@@ -2,7 +2,7 @@
 
 真实WebGL 3D卡通奶牛小游戏：自由跑动、吃随机青草、冲撞饲养员、挑战隐藏路线、收集成就。
 
-[直接游玩](https://finn-307.github.io/crazy-cow/) · [更新日志](CHANGELOG.md) · [界面设计记录](DESIGN.md)
+[直接游玩](https://xiuy07.github.io/crazy-cow/) · [更新日志](CHANGELOG.md) · [界面设计记录](DESIGN.md)
 
 通过GitHub Pages项目子路径部署，无需登录；所有运行模块本地加载。
 

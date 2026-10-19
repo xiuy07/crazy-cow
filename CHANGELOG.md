@@ -9,7 +9,7 @@
 - 新增高速位移、多屏幕比例、多角度与缩放的相机投影验证，以及大地图警戒覆盖和远距离发现测试；46项测试、语法与隐私检查全部通过。
 - 本地浏览器确认桌面、390×844竖屏、844×390横屏冲刺与冲撞时奶牛保持可见，无横向溢出；标准挑战显示22半径的大扇形与对应小地图。
 - 修正三档难度藏身进度条按各自所需藏身时间计算。
-- 4.0.1已成功发布到现有GitHub Pages项目子页面，正式版已确认加载新模块、22半径巡查和相机保护，浏览器无错误；发布记录：https://github.com/Finn-307/crazy-cow/actions/runs/38053817515 。
+- 4.0.1已成功发布到现有GitHub Pages项目子页面，正式版已确认加载新模块、22半径巡查和相机保护，浏览器无错误；发布记录：https://github.com/xiuy07/crazy-cow/actions/runs/38053817515 。
 
 ## 2026-10-10 · 4.0.0
 
@@ -26,7 +26,7 @@
 - 保留长按防选择、防复制处理。手机验证采用浏览器视口，尚未进行iOS/Android实机验证。
 - 页面及更新模块使用4.0版本标识，避免沿用旧脚本；通过GitHub Actions测试和隐私检查后部署到现有项目子页面。
 - GitHub Actions已成功完成40项测试、语法与隐私检查并发布4.0；正式子页面已确认难度、吃草成就和日记可用，浏览器无错误。
-- 正式地址：https://finn-307.github.io/crazy-cow/ 。发布记录：https://github.com/Finn-307/crazy-cow/actions/runs/38052964610 。
+- 正式地址：https://xiuy07.github.io/crazy-cow/ 。发布记录：https://github.com/xiuy07/crazy-cow/actions/runs/38052964610 。
 
 ## 2026-10-10 · 3.0.0
 
@@ -47,7 +47,7 @@
 - 手机检查使用浏览器视口，尚未进行实际iOS/Android设备验证。
 - 仓库已公开创建并更名为crazy-cow，基线源码、中途开发日志及最终版本已上传，所有提交使用通用身份及noreply邮箱。
 - GitHub Actions已成功完成22项测试、语法检查、隐私检查和Pages发布；正式页面已确认能够直接加载游戏，无需登录，浏览器无错误。
-- 正式项目子页面：https://finn-307.github.io/crazy-cow/ 。发布记录：https://github.com/Finn-307/crazy-cow/actions/runs/38049858134 。
+- 正式项目子页面：https://xiuy07.github.io/crazy-cow/ 。发布记录：https://github.com/xiuy07/crazy-cow/actions/runs/38049858134 。
 - GitHub Pages 使用项目子路径；部署与完成情况将在验证后记录。
 
 ## 2026-10-10 · 2.0.0
